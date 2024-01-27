@@ -1,4 +1,4 @@
-# News-Analysis
+# News-Analysis with R
 TF-IDF, Sentiment Analysis, NER
 
 The dataset used is titled A Multilabeled News Dataset for News Articles Hierarchical Classification (MN-DS) 
